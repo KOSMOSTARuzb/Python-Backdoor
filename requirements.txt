@@ -1,0 +1,9 @@
+mss
+opencv-python
+pynput
+pyttsx3
+clipboard
+pyperclip
+pywin32
+requests
+pycryptodomex
